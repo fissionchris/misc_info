@@ -1,7 +1,7 @@
 ## misc_info
 
 ### best torrent trackers (07-2016)
-### ***src: https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt***
+***src: https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt***
 
 udp://tracker.coppersurfer.tk:6969/announce
 
